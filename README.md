@@ -1,3 +1,7 @@
+
+![ChatGPT Image 4 jun 2025, 19_40_40](https://github.com/user-attachments/assets/db47449e-a9fc-4f2c-a521-bc291b2a260f)
+
+
 # 👋 ¡Hola! Soy Alberto Baena De La Torre
 
 Soy desarrollador de software con formación en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y **Desarrollo de Aplicaciones Web (DAW)**. Combino mi perfil técnico con más de 17 años de experiencia como **Guardia Civil**, donde he desempeñado funciones como especialista de **Atestados de Tráfico**, especialista de **Fiscal y Fronteras** y de **Seguridad Ciudadana**.
