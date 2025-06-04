@@ -1,10 +1,10 @@
 # 👋 ¡Hola! Soy Alberto Baena De La Torre
 
-Soy desarrollador de software con formación en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y **Desarrollo de Aplicaciones Web (DAW)**. Combino mi perfil técnico con más de 16 años de experiencia como **Guardia Civil**, donde he desempeñado funciones clave en **Atestados de Tráfico**, **Fiscal y Fronteras**, y **Seguridad Ciudadana**.
+Soy desarrollador de software con formación en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y **Desarrollo de Aplicaciones Web (DAW)**. Combino mi perfil técnico con más de 16 años de experiencia como **Guardia Civil**, donde he desempeñado funciones como especialista de **Atestados de Tráfico**, especialista de **Fiscal y Fronteras** y de **Seguridad Ciudadana**.
 
-Además, desde 2022 colaboro como **asesor jurídico en la Asociación IGC**, apoyando a compañeros en cuestiones legales vinculadas al ejercicio profesional.
+Además, desde 2022 colaboro como **asesor jurídico en la Asociación Profesional IGC (Independientes de la Guardia Civil)**, apoyando a compañeros en cuestiones legales vinculadas al ejercicio profesional.
 
-Mi objetivo actual es aplicar mis conocimientos en Derecho, tecnología y experiencia institucional para trabajar en proyectos de **legaltech**, **automatización jurídica**, y **ciberseguridad legal**.
+Mi objetivo actual es aplicar mis conocimientos en Derecho, tecnología y experiencia institucional para trabajar en proyectos de **legaltech**, **automatización jurídica**, y **ciberseguridad legal**, aunque estoy abierto a desarrollarme en cualquier ámbito tecnológico.
 
 ---
 
@@ -28,9 +28,11 @@ Mi objetivo actual es aplicar mis conocimientos en Derecho, tecnología y experi
 ## 🚀 Actualmente estoy...
 
 - Finalizando el proyecto final de DAW
-- Retomando el Grado en Derecho (96 créditos completados)
-- Especializándome en automatización legal, protección de datos y teletrabajo
+- Realizando prácticas del CFGS DAM en CODEARTS.
+- Retomando el Grado en Derecho (96 créditos completados) en UNIR.
+- Especializándome en automatización legal, protección de datos y todo lo relacionado con compilance y legaltech.
 - Explorando oportunidades profesionales que combinen **Derecho y programación**
+- B2 de inglés en proceso.
 
 ---
 
