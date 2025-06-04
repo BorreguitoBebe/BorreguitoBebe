@@ -4,7 +4,7 @@ Soy desarrollador de software con formación en **Desarrollo de Aplicaciones Mul
 
 Además, desde 2022 colaboro como **asesor jurídico en la Asociación IGC**, apoyando a compañeros en cuestiones legales vinculadas al ejercicio profesional.
 
-Mi objetivo actual es aplicar mis conocimientos en Derecho, tecnología y experiencia institucional para trabajar en proyectos de **legaltech**, **automatización jurídica**, y **ciberseguridad legal**, especialmente en modalidad **remota**.
+Mi objetivo actual es aplicar mis conocimientos en Derecho, tecnología y experiencia institucional para trabajar en proyectos de **legaltech**, **automatización jurídica**, y **ciberseguridad legal**.
 
 ---
 
@@ -36,7 +36,7 @@ Mi objetivo actual es aplicar mis conocimientos en Derecho, tecnología y experi
 
 ## 📫 Contacto
 
-- 📧 Email: albertobaena@email.com  
+- 📧 Email: fox_alberto@hotmail.es  
 - 🔗 LinkedIn: www.linkedin.com/in/albertobaenadelatorre  
 - 💻 GitHub: [github.com/albertobaena](https://github.com/borreguitoBebe)
 
