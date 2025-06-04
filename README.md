@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Alberto Baena De La Torre
 
-Soy desarrollador de software con formación en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y **Desarrollo de Aplicaciones Web (DAW)**. Combino mi perfil técnico con más de 16 años de experiencia como **Guardia Civil**, donde he desempeñado funciones como especialista de **Atestados de Tráfico**, especialista de **Fiscal y Fronteras** y de **Seguridad Ciudadana**.
+Soy desarrollador de software con formación en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y **Desarrollo de Aplicaciones Web (DAW)**. Combino mi perfil técnico con más de 17 años de experiencia como **Guardia Civil**, donde he desempeñado funciones como especialista de **Atestados de Tráfico**, especialista de **Fiscal y Fronteras** y de **Seguridad Ciudadana**.
 
 Además, desde 2022 colaboro como **asesor jurídico en la Asociación Profesional IGC (Independientes de la Guardia Civil)**, apoyando a compañeros en cuestiones legales vinculadas al ejercicio profesional.
 
